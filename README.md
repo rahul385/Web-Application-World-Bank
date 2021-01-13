@@ -2,18 +2,15 @@
 
 ### Table of Contents
 1. [Project Overview](#project)
-2. [Web Application](#webapp)
-3. [File Description](#file)
-4. [Visualizations](#image)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+2. [File Description](#file)
+3. [Visualizations](#image)
+4. [Licensing, Authors, and Acknowledgements](#licensing)
 
 
 ## Project Overview <a name="project"></a>
-The objective of this web application is to create a data dashboard to track key metrics and trends using real data from World Bank website.
+The objective of this web application is to create a data dashboard to track key metrics and trends using real data from World Bank website. This web application has been deployed on Heroku using Flask (see the link below).
 
-## Web Application <a name="webapp"></a>
-This web application has been deployed on Heroku using Flask (see the link below).
-[Web-Application-World-Bank](https://web-app-worldbank.herokuapp.com/)
+[World Bank Web-Application](https://web-app-worldbank.herokuapp.com/)
 
 ## File Description <a name="file"></a>
 

@@ -48,9 +48,11 @@ Run the following commands in the project's root directory to set up your databa
 ## Screenshots <a name="image"></a>
 
 ***Screenshot 1: Arable Land Per Person - 1990 to 2015***
+
 ![Screenshot 1](https://github.com/rahul385/Web-Application-World-Bank/blob/master/Visualizations/Arable_Land_Per_Person_1990_to_2015.png)
 
 ***Screenshot 2: Arable Land Per Person In 2015***
+
 ![Screenshot 2](https://github.com/rahul385/Web-Application-World-Bank/blob/master/Visualizations/Arable_Land_Per_Person_in_2015.png)
 
 

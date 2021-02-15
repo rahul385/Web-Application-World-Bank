@@ -1,5 +1,7 @@
 # Web-Application-World-Bank
 
+<p align = 'center'><img src = 'logo.png', height=200, width =320></p>
+
 ### Table of Contents
 1. [Project Overview](#project)
 2. [File Description](#file)

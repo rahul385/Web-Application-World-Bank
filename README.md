@@ -11,7 +11,9 @@
 
 ## Installation <a name="installation"></a>
 
-All the librarires required to run the code are mentioned in [requirements.txt](https://github.com/rahul385/Web-Application-World-Bank/blob/master/requirements.txt). To install Run: `pip install -r requirements.txt`
+All the librarires required to run the code are mentioned in [requirements.txt](https://github.com/rahul385/Web-Application-World-Bank/blob/master/requirements.txt).
+
+To install Run: `pip install -r requirements.txt`
 
 ## Project Overview <a name="project"></a>
 The objective of this web application is to create a data dashboard to track key metrics and trends using real data from World Bank website. This web application has been deployed on Heroku using Flask (see the link below).
